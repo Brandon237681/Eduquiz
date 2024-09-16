@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1,
+    "img": "/math.jpg",
+    "name": "Mathematic",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "sqrt(64) * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "3 + 3 x 3 ÷ 3 - 3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/biology.jpg",
+    "name": "Biology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "The Kreb Cycles occurs in the",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Rough ER",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cystol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "How many oxygen molecules can hemoglobin hold",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "The cones see ___ while the rods see ___",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "black and white; color",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "color; black and white",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3D objects; 2D shapes",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "2D shapes; 3D objects",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/chemistry.jpg",
+    "name": "History",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Which of the following countries had more firms on the cameroon coast by 1870 ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Germany",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "France",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Britain",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Portugal",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "The letter to queen victoria of britain requesting the annexation of cameroon in August 1879 was signed by ..",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Chief Atangana of Yaounde",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Fon Galega 1 of Bali",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Sultan Njoya of Foumban",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "king Akwa of Douala",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Identify the non - peaceful method used by the Germans to penetrate and occupy the interior of cameroon",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The hoisting of a powerful colonial force",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The establishment of a powerful colonial force",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The signing of friendship agreement with traditional rulers",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "The division of the territory into administrative districts",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "The French actively took part in all the following battles in cameroon between 1914 and 1916 Except the battle of ..",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Yaounde",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nsanakang",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Douala",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Mora",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "A political effect of the First world war on the people of cameroon by 1922 was ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Territorial losses to French Equatorial Africa",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Loss of jobs in the colonial administration",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Disruption of German plantations works",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Introduction of the English and French languages",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Which of the following wa the political motives for the European Scramble for the annexation of African territories in the 19th Century ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "To secure trade monopoly",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "To secure naval bases",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "To check the spread of Islam",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "To settle surplus population",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Identify the French Statesman who was an important convenor of the Berlin Conference of 1884 - 1885",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Georges Clemenceau",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Jules Ferry",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Otto Von Bismarck",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "De Brazza",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "The following are the features of the British colonial Policy of Indirect rule EXCEPT ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Appointment of Native Authorities",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "TAppointment of Warrant Chiefs",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "User of traditional rulers and institutions as intermediaries",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rejection of British supervisory officials",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "The French policy of Assimilation was succesfully implemented in all the following town Except ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Abidjan",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Goree",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Dakar",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rufisque",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "The African country which was a member of the League of Nations and became a Mandatory power was .. ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ethiopia",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nigeria",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Gold Coast",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "South Africa",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "An economic impact of industrialization that led to the outbreak of the First World War was..",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mass production of arms",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mass production resulting to trade conflicts",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Increase in population and scramble fot settlements",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Anglo - German naval rivalry",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Identify the pairs of cities that suffered the effect of the American Atomic Bombs in August 1945",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Paris and Berlin",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "London and Berlin",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "New York and Geneva",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hiroshima and Nagasaki",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "The Treaty of Versailles dealing with defeated German was signed in .. ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "November 1918",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "June 1919",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "September 1919",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "June 1920",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
